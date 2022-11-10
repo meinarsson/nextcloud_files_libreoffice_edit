@@ -1,16 +1,13 @@
-# Nextcloud Files - Edit with LibreOffice
+# Nextcloud Files - Edit with LibreOffice od Microsoft Office
 
 Nextcloud App to edit files directly in LibreOffice (via WebDav).
 
 Requires at least:
 * LibreOffice 5.3 (on Windows)
 * LibreOffice 7.2 (on Linux)
+* Microsoft Office (on Windows)
 
 Doesn't seem to work on macOS currently (See issue [#6](https://github.com/allotropia/nextcloud_files_libreoffice_edit/issues/6))
-
-## Automatic install
-
-Install from the [Nextcloud app store](https://apps.nextcloud.com/apps/fileslibreofficeedit).
 
 ## Manual install
 

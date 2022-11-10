@@ -110,7 +110,7 @@
 			supportedMimetypes.forEach (function (mimetype) {
 				fileList.fileActions.registerAction({
 					name: 'EditWithLibreOffice',
-					displayName: t('fileslibreofficeedit', 'Edit with Word'),
+					displayName: t('fileslibreofficeedit', 'Edit with Libreoffice'),
 					mime: mimetype,
 					order: 100,
 					iconClass: 'icon-edit',

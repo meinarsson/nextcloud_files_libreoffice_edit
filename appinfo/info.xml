@@ -2,8 +2,8 @@
 <info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
       xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
     <id>fileslibreofficeedit</id>
-    <name>Edit files with LibreOffice</name>
-    <summary>Open files with LibreOffice for editing (via WebDAV)</summary>
+    <name>Edit files with LibreOffice or Microsoft Office</name>
+    <summary>Open files with LibreOffice or Microsoft Office for editing (via WebDAV)</summary>
     <description><![CDATA[This adds a new context menu item to the Files dropdown menu "Edit with LibreOffice".
 Clicking that item will open the file in LibreOffice via WebDAV (the file can then be edited and saved back directly in LibreOffice).
 
